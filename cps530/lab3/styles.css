@@ -1,0 +1,23 @@
+body{
+    background-color: #74f8fd; font-family: Arial, Helvetica, sans-serif; align-content: center; color: blueviolet; font-size: 12pt;
+}
+
+h1{
+    color: #ff0033; font-family: Arial; align-content: center;
+}
+
+h2{
+    color: purple; font-family: Arial, Helvetica, sans-serif; align-content: center;
+}
+
+h3{
+    color: #ff50ae; font-family: Arial, Helvetica, sans-serif; align-content: center;
+}
+
+div{
+    font-family: Arial, Helvetica, sans-serif; align-content: center;
+}
+
+ul{
+    align-content: center;
+}
